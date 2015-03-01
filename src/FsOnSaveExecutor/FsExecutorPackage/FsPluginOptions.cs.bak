@@ -1,4 +1,4 @@
-namespace Marols.FsExecutorPackage
+namespace NooNe.FsExecutorPackage
 {
     using System;
     using System.ComponentModel;

@@ -10,7 +10,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("FsExecutorPackage")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Marols")]
+[assembly: AssemblyCompany("NooNe")]
 [assembly: AssemblyProduct("FsExecutorPackage")]
 [assembly: AssemblyCopyright("")]
 [assembly: AssemblyTrademark("")]

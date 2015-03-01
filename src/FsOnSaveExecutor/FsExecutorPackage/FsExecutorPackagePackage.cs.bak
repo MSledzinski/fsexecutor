@@ -1,4 +1,4 @@
-﻿namespace Marols.FsExecutorPackage
+﻿namespace NooNe.FsExecutorPackage
 {
     using System;
     using System.Diagnostics;
@@ -11,7 +11,7 @@
     using Microsoft.VisualStudio.Shell;
     using Microsoft.VisualStudio.Shell.Interop;
 
-    using Marols.FsExecutorPackage.Modificators;
+    using NooNe.FsExecutorPackage.Modificators;
 
     using IServiceProvider = Microsoft.VisualStudio.OLE.Interop.IServiceProvider;
 

@@ -1,4 +1,4 @@
-﻿namespace Marols.FsExecutorPackage
+﻿namespace NooNe.FsExecutorPackage
 {
     using System.Linq;
     using System.Runtime.InteropServices;

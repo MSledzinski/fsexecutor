@@ -1,6 +1,6 @@
-﻿namespace Marols.FsExecutorPackage
+﻿namespace NooNe.FsExecutorPackage
 {
-    using Marols.FsExecutorPackage.Modificators;
+    using NooNe.FsExecutorPackage.Modificators;
 
     internal class FsCodeExecutor
     {

@@ -2,7 +2,7 @@
 // MUST match guids.h
 using System;
 
-namespace Marols.FsExecutorPackage
+namespace NooNe.FsExecutorPackage
 {
     static class GuidList
     {

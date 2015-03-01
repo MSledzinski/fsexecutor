@@ -1,6 +1,6 @@
 ﻿namespace Tests
 {
-    using Marols.FsExecutorPackage.Modificators;
+    using NooNe.FsExecutorPackage.Modificators;
 
     using NUnit.Framework;
 

@@ -1,4 +1,4 @@
-﻿namespace Marols.FsExecutorPackage.Modificators
+﻿namespace NooNe.FsExecutorPackage.Modificators
 {
     using System;
     using System.Text.RegularExpressions;
